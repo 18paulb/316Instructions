@@ -36,4 +36,23 @@ In this day and age, everything requires a website. Through these instructions, 
 4. Replace the url found in this code to be the url that you copied from Google Images.
 
 
-### 
+### Changing Body Text
+1. Go to HTML Section of CodePen and find where it has this code
+```
+<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+</p>
+```
+2. Change the text inside of the `<p></p>` tags to be a description of how your day was today
+
+### Changing Background Color
+1. Go to CSS Section of CodePen
+2. Find where this code section
+```
+body {
+  font-family: system-ui;
+  background: red;
+  color: white;
+  text-align: center;
+}
+```
+3. Alter the background value to be the word "green"
