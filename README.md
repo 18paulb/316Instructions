@@ -28,7 +28,7 @@ In this day and age, everything requires a website. Through these instructions, 
 4. Change the `font-size: 10px` section to say `font-size: 40px;` (make sure to keep the semicolon)
 5. The header should get larger automatically after a few seconds:
 
--- Insert image of changed header
+![changed header](./images/changedHeader.png)
 
 ### Changing The Image
 1. Go to Google Images and find an appropriate image of your choice.
@@ -40,7 +40,7 @@ In this day and age, everything requires a website. Through these instructions, 
 ```
 4. Delete the url found after the `src=` and paste the new one you copied (make sure that you keep the quotes around the link).
 
--- Picture of image being changed
+![changed image](./images/changedImage.png)
 
 ### Changing Body Text
 1. In the HTML Section, find where it has this code:
@@ -50,7 +50,7 @@ In this day and age, everything requires a website. Through these instructions, 
 2. Change the text inside of the `<p></p>` tags to be a description of how your day was today:
    ```<p>My day was great!</p>```
 
-   -- Body text should be changed
+![changed body](./images/changedText.png)
 ### Changing Background Color
 1. In the CSS section, find this code:
 ```
@@ -64,7 +64,7 @@ body {
 3. Change the background color by changing `background: orange;` to `background:green` (make sure not to delete the semicolon at the end of the line)
 4. If you'd like, you can try using a different color than green.
 
--- Image of different background color
+![changed background](./images/changedBackground.png)
 
 # Comments, Notes, and Examples
 
