@@ -29,3 +29,6 @@ Change the font-size section from 10px; to a number in the range of 50px and 100
 ```
     <img class="photo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cat_August_2010-4.jpg/1200px-Cat_August_2010-4.jpg">
 ```
+2. Go to Google Images and search up an appropriate image
+3. Right-click the image you found and copy the image link
+4. 
