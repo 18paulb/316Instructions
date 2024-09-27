@@ -11,10 +11,7 @@ In this day and age, everything requires a website. Through these instructions, 
 
 ### Altering Name Heading
 1. On the left-hand section titled "HTML", go to the text that says "Hello {Name}".
-2. Replace "{Name}" with your name
-
--- Add picture of name being replaced
-
+2. Replace "{Name}" with your name.
 3. Go to the middle section titled "CSS" and find the block of code that says
    ```
    .box {
@@ -26,6 +23,8 @@ In this day and age, everything requires a website. Through these instructions, 
    ```
 4. Change the font-size section from 10px; to a number in the range of 50px and 100px
 
+-- Insert image of changed header
+
 ### Changing The Image
 1. Go to Google Images and search up an appropriate image of your choice.
 2. Right click and choose "Copy Image Link" or "Copy Image Address" from the dropdown menu.
@@ -35,6 +34,7 @@ In this day and age, everything requires a website. Through these instructions, 
 ```
 4. Replace the url found in this code to be the url that you copied from Google Images.
 
+-- Picture of image being changed
 
 ### Changing Body Text
 1. Go to HTML Section of CodePen and find where it has this code
@@ -44,6 +44,7 @@ In this day and age, everything requires a website. Through these instructions, 
 ```
 2. Change the text inside of the `<p></p>` tags to be a description of how your day was today
 
+   -- Body text should be changed
 ### Changing Background Color
 1. Go to CSS Section of CodePen
 2. Find where this code section
@@ -56,3 +57,6 @@ body {
 }
 ```
 3. Alter the background value and change the word "orange" to "green"
+
+
+-- Image of different background color
