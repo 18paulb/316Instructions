@@ -39,7 +39,7 @@ The updated page should look similar to this
 ```
     <img class="photo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cat_August_2010-4.jpg/1200px-Cat_August_2010-4.jpg">
 ```
-4. Delete the url found after the `src=` and paste the new one you copied (make sure that you keep the quotes around the link).
+5. Delete the url found after the `src=` and paste the new one you copied (make sure that you keep the quotes around the link).
 
 The updated page should look similar to this
 ![changed image](./images/changedImage.png)
@@ -65,8 +65,8 @@ body {
   text-align: center;
 }
 ```
-3. Change the background color by changing `background: orange;` to `background:green` (make sure not to delete the semicolon at the end of the line)
-4. If you'd like, you can try using a different color than green.
+2. Change the background color by changing `background: orange;` to `background:green` (make sure not to delete the semicolon at the end of the line)
+3. If you'd like, you can try using a different color than green.
 
 The updated page should look similar to this
 ![changed background](./images/changedBackground.png)
