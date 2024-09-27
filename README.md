@@ -65,8 +65,8 @@ body {
 # Comments, Notes, and Examples
 
 # Troubleshooting
-1. If the image you chose from Google Images isn't showing up, choose a new image and try that instead.
-2. If changes aren't showing up, make sure that in the CSS section, there is a ";" at the end of any lines you've changed.
+ - If the image you chose from Google Images isn't showing up, choose a new image and try that instead.
+ - If changes aren't showing up, make sure that in the CSS section, there is a ";" at the end of any lines you've changed.
 
 # Hazards Statements
 
