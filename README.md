@@ -50,7 +50,7 @@ In this day and age, everything requires a website. Through these instructions, 
 ```
 body {
   font-family: system-ui;
-  background: red;
+  background: orange;
   color: white;
   text-align: center;
 }
