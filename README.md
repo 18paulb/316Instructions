@@ -3,6 +3,8 @@
 # Introduction
 In this day and age, everything requires a website. Through these instructions, you will learn basic editing of HTML and CSS, the building blocks of websites. You will be using a website called CodePen, in which there will be three sections titled HTML, CSS, and JS. The simple web page will be displayed underneath. You will be editing the HTML and CSS sections.
 
+![codepen full screenshot](./introduction.jpg)
+
 # List of Requirements:
 1. A computer
 2. A stable internet connection
