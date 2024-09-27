@@ -70,7 +70,7 @@ body {
 
 # Hazards Statements
 
-###Caution 
+### Caution 
 If you refresh the page, you will lose all your progress
 
 # Conclusion
