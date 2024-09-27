@@ -22,7 +22,7 @@ In this day and age, everything requires a website. Through these instructions, 
     align-items: center;
    }
    ```
-4. Change the font-size section from 10px; to a number in the range of 50px and 100px
+4. Change the font-size section from `10px;` to `40px;` (make sure to keep the semicolon)
 
 -- Insert image of changed header
 
