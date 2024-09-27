@@ -1,12 +1,13 @@
 # Creating and editing a simple web page
+
+# Introduction
 In this day and age, everything requires a website. Through these instructions, you will learn basic editing of HTML and CSS, the building blocks of websites. You will be using a website called CodePen, in which there will be three sections titled HTML, CSS, and JS. The simple web page will be displayed underneath. You will be editing the HTML and CSS sections.
 
-# Requirements:
+# List of Requirements:
 1. A computer
 2. A stable internet connection
 
-# Instructions
-
+# Numbered Steps
 1. Open this link in a new tab: https://codepen.io/18paulb/pen/abeOKgd
 
 ### Altering Name Heading
@@ -32,7 +33,7 @@ In this day and age, everything requires a website. Through these instructions, 
 ```
     <img class="photo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cat_August_2010-4.jpg/1200px-Cat_August_2010-4.jpg">
 ```
-4. Replace the url found in this code to be the url that you copied from Google Images.
+4. Replace the url found in this code to be the url that you copied from Google Images (make sure that you keep the quotes around the link).
 
 -- Picture of image being changed
 
@@ -60,3 +61,13 @@ body {
 
 
 -- Image of different background color
+
+# Comments, Notes, and Examples
+
+# Troubleshooting
+1. If the image you chose from Google Images isn't showing up, choose a new image and try that instead.
+2. If changes aren't showing up, make sure that in the CSS section, there is a ";" at the end of any lines you've changed.
+
+# Hazards Statements
+
+# Conclusion
