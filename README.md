@@ -39,7 +39,7 @@ In this day and age, everything requires a website. Through these instructions, 
 ### Changing Body Text
 1. Go to HTML Section of CodePen and find where it has this code
 ```
-<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 </p>
 ```
 2. Change the text inside of the `<p></p>` tags to be a description of how your day was today
