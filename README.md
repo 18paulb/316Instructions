@@ -8,7 +8,7 @@ A computer and stable internet connection
 1. Open this link in a new tab: https://codepen.io/18paulb/pen/abeOKgd
 
 ### Altering Name Heading
-2. On the left-hand box, go to the text that says "Hello {Name}".
+2. On the left-hand box titled "HTML", go to the text that says "Hello {Name}".
 3. Replace "{Name}" with your name
 
 -- Add picture of name being replaced
