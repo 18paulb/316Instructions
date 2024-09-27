@@ -57,7 +57,7 @@ body {
   text-align: center;
 }
 ```
-3. Alter the background value and change the word "orange" to "green"
+3. Alter "background" and change the word "orange" to "green" (makes ure not to delete the semicolon at the end of the line)
 
 
 -- Image of different background color
