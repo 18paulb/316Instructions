@@ -1,2 +1,2 @@
 # Creating and editing a simple web page
-Instructions to edit html files
+In this day and age, everything requires a website. Through these instructions, you will learn basic editing of HTML and CSS, the building blocks of websites
