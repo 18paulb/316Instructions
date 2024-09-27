@@ -8,12 +8,12 @@ A computer and stable internet connection
 1. Open this link in a new tab: https://codepen.io/18paulb/pen/abeOKgd
 
 ### Altering Name Heading
-2. On the left-hand box titled "HTML", go to the text that says "Hello {Name}".
-3. Replace "{Name}" with your name
+1. On the left-hand section titled "HTML", go to the text that says "Hello {Name}".
+2. Replace "{Name}" with your name
 
 -- Add picture of name being replaced
 
-4. Go to the middle box titled "CSS" and find the block of code that says
+3. Go to the middle section titled "CSS" and find the block of code that says
    ```
    .box {
     font-size: 10px;
@@ -24,5 +24,8 @@ A computer and stable internet connection
    ```
 Change the font-size section from 10px; to a number in the range of 50px and 100px
 
-
-### 
+### Changing The Image
+1. Go to the left-hand section and find where it has this code
+```
+    <img class="photo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cat_August_2010-4.jpg/1200px-Cat_August_2010-4.jpg">
+```
