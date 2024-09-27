@@ -20,6 +20,6 @@ A computer and stable internet connection
     display: flex;
     justify-content: center;
     align-items: center;
-  }
-```
+   }
+   ```
 Change the font-size section from 10px; to a number in the range of 50px and 100px
