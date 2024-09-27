@@ -81,7 +81,7 @@ The updated page should look similar to this
     - Check the CSS section for any missing semicolons at the end of lines.
     - Check the HTML section and make sure you haven't deleted any of the tags (things in `<>` brackets)
 
-# Hazards Statements
+# Hazard Statements
 
 ### Caution 
 If you refresh the page, you will lose all your progress.
