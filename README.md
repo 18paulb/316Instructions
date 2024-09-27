@@ -1,5 +1,5 @@
 # Creating and editing a simple web page
-In this day and age, everything requires a website. Through these instructions, you will learn basic editing of HTML and CSS, the building blocks of websites. You will be using a website called codepen, in which there will be three sections titled HTML, CSS, and JS. The simple web page will be displayed underneath. You will be editing the HTML and CSS sections.
+In this day and age, everything requires a website. Through these instructions, you will learn basic editing of HTML and CSS, the building blocks of websites. You will be using a website called CodePen, in which there will be three sections titled HTML, CSS, and JS. The simple web page will be displayed underneath. You will be editing the HTML and CSS sections.
 
 # Requirements:
 1. A computer
