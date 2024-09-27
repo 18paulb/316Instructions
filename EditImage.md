@@ -1,6 +1,6 @@
 ### Edit the Image
 
-First, find an image to use. Search on Google for an image of your choice, right click it, and choose "Copy Image URL" in the dropdown menu.
+First, find an image to use. Search on Google for an image of your choice, right click it, and choose "Copy Image Link" or "Copy Image Address" from the dropdown menu.
 
 Navigate back to the CodePen, and in the HTML section, find the `<img>` tag on line (line number).
 
