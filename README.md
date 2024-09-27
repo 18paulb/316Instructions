@@ -55,4 +55,4 @@ body {
   text-align: center;
 }
 ```
-3. Alter the background value to be the word "green"
+3. Alter the background value and change the word "orange" to "green"
