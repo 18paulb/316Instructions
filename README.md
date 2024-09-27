@@ -1,7 +1,9 @@
 # Creating and editing a simple web page
-In this day and age, everything requires a website. Through these instructions, you will learn basic editing of HTML and CSS, the building blocks of websites. You will be using a website called codepen, in which there will be three sections titled HTML, CSS, and JS. There will be the simple web page displayed underneath. You will be editing the HTML and CSS sections.
-Requirements:https://github.com/18paulb/316Instructions/blob/main/README.md
-A computer and stable internet connection
+In this day and age, everything requires a website. Through these instructions, you will learn basic editing of HTML and CSS, the building blocks of websites. You will be using a website called codepen, in which there will be three sections titled HTML, CSS, and JS. The simple web page will be displayed underneath. You will be editing the HTML and CSS sections.
+
+# Requirements:
+1. A computer
+2. A stable internet connection
 
 ## Instructions
 
@@ -25,10 +27,10 @@ A computer and stable internet connection
 Change the font-size section from 10px; to a number in the range of 50px and 100px
 
 ### Changing The Image
-1. Go to the left-hand section and find where it has this code
+1. Go to Google Images and search up an appropriate image of your choice.
+2. Right click and choose "Copy Image Link" or "Copy Image Address" from the dropdown menu.
+3. Navigate back to CodePen, in the HTML Section, find the where it has this code
 ```
     <img class="photo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cat_August_2010-4.jpg/1200px-Cat_August_2010-4.jpg">
 ```
-2. Go to Google Images and search up an appropriate image
-3. Right-click the image you found and copy the image link
-4. 
+4. Replace the url found in this code to be the url that you copied from Google Images.
