@@ -12,3 +12,14 @@ A computer and stable internet connection
 3. Replace "{Name}" with your name
 
 -- Add picture of name being replaced
+
+4. Go to the middle box titled "CSS" and find the block of code that says
+   ```
+   .box {
+    font-size: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+```
+Change the font-size section from 10px; to a number in the range of 50px and 100px
