@@ -5,7 +5,7 @@ In this day and age, everything requires a website. Through these instructions, 
 1. A computer
 2. A stable internet connection
 
-## Instructions
+# Instructions
 
 1. Open this link in a new tab: https://codepen.io/18paulb/pen/abeOKgd
 
@@ -24,7 +24,7 @@ In this day and age, everything requires a website. Through these instructions, 
     align-items: center;
    }
    ```
-Change the font-size section from 10px; to a number in the range of 50px and 100px
+4. Change the font-size section from 10px; to a number in the range of 50px and 100px
 
 ### Changing The Image
 1. Go to Google Images and search up an appropriate image of your choice.
@@ -34,3 +34,6 @@ Change the font-size section from 10px; to a number in the range of 50px and 100
     <img class="photo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cat_August_2010-4.jpg/1200px-Cat_August_2010-4.jpg">
 ```
 4. Replace the url found in this code to be the url that you copied from Google Images.
+
+
+### 
