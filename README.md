@@ -29,7 +29,7 @@ Change the font-size section from 10px; to a number in the range of 50px and 100
 ### Changing The Image
 1. Go to Google Images and search up an appropriate image of your choice.
 2. Right click and choose "Copy Image Link" or "Copy Image Address" from the dropdown menu.
-3. Navigate back to CodePen, in the HTML Section, find the where it has this code
+3. Navigate back to CodePen, in the HTML Section, find where it has this code
 ```
     <img class="photo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cat_August_2010-4.jpg/1200px-Cat_August_2010-4.jpg">
 ```
