@@ -28,6 +28,7 @@ In this day and age, everything requires a website. Through these instructions, 
 4. Change the `font-size: 10px` section to say `font-size: 40px;` (make sure to keep the semicolon)
 5. The header should get larger automatically after a few seconds:
 
+The updated page should look similar to this
 ![changed header](./images/changedHeader.png)
 
 ### Changing The Image
@@ -40,6 +41,7 @@ In this day and age, everything requires a website. Through these instructions, 
 ```
 4. Delete the url found after the `src=` and paste the new one you copied (make sure that you keep the quotes around the link).
 
+The updated page should look similar to this
 ![changed image](./images/changedImage.png)
 
 ### Changing Body Text
@@ -50,7 +52,9 @@ In this day and age, everything requires a website. Through these instructions, 
 2. Change the text inside of the `<p></p>` tags to be a description of how your day was today:
    ```<p>My day was great!</p>```
 
+The updated page should look similar to this
 ![changed body](./images/changedText.png)
+
 ### Changing Background Color
 1. In the CSS section, find this code:
 ```
@@ -64,6 +68,7 @@ body {
 3. Change the background color by changing `background: orange;` to `background:green` (make sure not to delete the semicolon at the end of the line)
 4. If you'd like, you can try using a different color than green.
 
+The updated page should look similar to this
 ![changed background](./images/changedBackground.png)
 
 # Comments, Notes, and Examples
