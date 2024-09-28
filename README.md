@@ -16,7 +16,8 @@ You will be using a website called CodePen, in which there will be three section
 
 ### Preparation Steps
 1. Open this link in a new tab: https://codepen.io/18paulb/pen/abeOKgd
-2. Out of three tabs opened: **HTML**, **CSS**, and **JS**, click on <i class="fas fa-chevron-down"></i> to find `Minimize Javascript Editor`
+2. Out of three tabs opened —**HTML**, **CSS**, and **JS**-click the drop down menu in the top right corner.
+3. Select `Minimize Javascript Editor` from the dropdown. We will not be using it the JS tab.
 
 
 ### Altering Name Heading
@@ -89,8 +90,10 @@ The updated page should look similar to this:
 
 # Hazard Statements
 
-### Caution 
+### ⚠️ Caution ⚠️
 If you refresh the CodePen page, you will lose all your progress.
 
 # Conclusion
-By following these steps, you have successfully edited a simple webpage using HTML and CSS. You’ve learned how to modify text, change an image, update the body content, and alter the background color. These basic steps provide a starting point for editing and personalizing websites. With a bit of practice, you can try making more changes and exploring other features of HTML and CSS to further customize webpages as you become more comfortable with the process.
+Congratulations! By following these steps, you have successfully edited a simple webpage using HTML and CSS. You’ve learned the basics of editing a simple webpage using HTML and CSS. Through this exercise, you’ve explored fundamental techniques such as modifying text, changing images, updating body content, and altering background colors. 
+
+These basic steps provide a starting point for editing and personalizing websites. With a bit of practice, you can try making more changes and exploring other features of HTML and CSS to further customize webpages as you become more comfortable with the process.
