@@ -1,7 +1,9 @@
 # Creating and Editing a Simple Webpage
 
 # Introduction
-In this day and age, everything requires a website. Through these instructions, you will learn basic editing of HTML and CSS, the building blocks of websites. You will be using a website called CodePen, in which there will be three sections titled HTML, CSS, and JS. The webpage will be displayed underneath. You will be editing the HTML and CSS sections.
+In this day and age, everything requires a website. Through these instructions, you will learn basic editing of HTML and CSS, the building blocks of websites. 
+
+You will be using a website called CodePen, in which there will be three sections titled HTML, CSS, and JS. The webpage will be displayed underneath. You will be editing the HTML and CSS sections.
 
 ![codepen full screenshot](./Introduction.jpg)
 
@@ -10,8 +12,12 @@ In this day and age, everything requires a website. Through these instructions, 
 2. A stable internet connection
 
 # Numbered Steps
+
+
+### Preparation Steps
 1. Open this link in a new tab: https://codepen.io/18paulb/pen/abeOKgd
-2. Collapse the JS section. We won't be using it.
+2. Out of three tabs opened: **HTML**, **CSS**, and **JS**, click on <i class="fas fa-chevron-down"></i> to find `Minimize Javascript Editor`
+
 
 ### Altering Name Heading
 1. In the HTML section (on the left), find the text that says `Hello {Name}`.
