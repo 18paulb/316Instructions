@@ -94,6 +94,13 @@ The updated page should look similar to this:
 If you refresh the CodePen page, you will lose all your progress.
 
 # Conclusion
-Congratulations! By following these steps, you have successfully edited a simple webpage using HTML and CSS. You’ve learned the basics of editing a simple webpage using HTML and CSS. Through this exercise, you’ve explored fundamental techniques such as modifying text, changing images, updating body content, and altering background colors. 
+**Congratulations!** 
+
+By following these steps, you have successfully edited a simple webpage using HTML and CSS. You’ve learned the basics of editing a simple webpage using HTML and CSS. Through this exercise, you’ve explored fundamental techniques such as... 
+
+1. Modifying text
+2. Changing images
+3. Updating body content
+4. Ultering background colors
 
 These basic steps provide a starting point for editing and personalizing websites. With a bit of practice, you can try making more changes and exploring other features of HTML and CSS to further customize webpages as you become more comfortable with the process.
