@@ -44,7 +44,8 @@ The updated page should look similar to this:
 
 ![Find Image](./images/findImage.png)
 
-3b. Delete the url found after the `src=` and put in this new url `https://brightspotcdn.byu.edu/31/bf/faa1cee3405387ff8d0d135ffab1/1810-23-0021-1200-4.jpg` (make sure that you have quotes around the link).
+3b. Delete the url found after the `src=` and put in this new url `https://brightspotcdn.byu.edu/31/bf/faa1cee3405387ff8d0d135ffab1/1810-23-0021-1200-4.jpg`
+ - Make sure that you have quotes around the link
 
 The updated page should look similar to this:
 
@@ -55,7 +56,8 @@ The updated page should look similar to this:
 
 ![Find Background](./images/findBackground.png)
 
-4b. Change the background color by changing `background: orange;` to `background: green;` (make sure not to delete the semicolon at the end of the line)
+4b. Change the background color by changing `background: orange;` to `background: green;` 
+ - Make sure not to delete the semicolon at the end of the line
 
 The updated page should look similar to this:
 
