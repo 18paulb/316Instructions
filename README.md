@@ -14,6 +14,8 @@ You will be using a website called CodePen, in which there will be three section
 
 2. A stable internet connection
 
+![stable internet](./images/stableInternet.jpg)
+
 # Hazard Statements
 
 ### ⚠️ Caution ⚠️
@@ -46,18 +48,18 @@ The updated page should look similar to this:
 
 The updated page should look similar to this:
 
-![Find Image](./images/changeImage.png)
+![Change Image](./images/changeImage.png)
 
 ### Changing Background Color
 4a. Find this code in the CSS section
 
-![Find Image](./images/findBackground.png)
+![Find Background](./images/findBackground.png)
 
 4b. Change the background color by changing `background: orange;` to `background: green;` (make sure not to delete the semicolon at the end of the line)
 
 The updated page should look similar to this:
 
-![Find Image](./images/changeBackground.png)
+![Change Background](./images/changeBackground.png)
 
 # Comments, Notes, and Examples
 
