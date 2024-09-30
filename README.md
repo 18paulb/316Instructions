@@ -9,9 +9,10 @@ You will be using a website called CodePen, in which there will be three section
 
 # List of Requirements:
 1. A computer
+   
 ![laptop](./images/laptop.jpeg)
 
-3. A stable internet connection
+2. A stable internet connection
 
 # Numbered Steps
 
@@ -24,23 +25,10 @@ You will be using a website called CodePen, in which there will be three section
 2a. Find the text that says `Hello Name` in the HTML section (on the left)
 
 2b. Replace `Name` with your name
-
-2c. Find the following code in the CSS section (on the right):
-   ```
-   .box {
-    font-size: 10px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-   }
-   ```
-
-2d. Change the line that says `font-size: 10px;` to say `font-size: 40px;` (make sure to keep the semicolon)
- - The header should get larger automatically after a few seconds
    
 The updated page should look similar to this:
 
-### Changing The Image=
+### Changing The Image
 3a. In the HTML Section, find this line:
 ```
     <img class="photo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cat_August_2010-4.jpg/1200px-Cat_August_2010-4.jpg">
