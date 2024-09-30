@@ -16,13 +16,17 @@ You will be using a website called CodePen, in which there will be three section
 
 ### Preparation Steps
 1a. Open this link in a new tab: https://codepen.io/18paulb/pen/abeOKgd
+
 1b. Out of three tabs opened —**HTML**, **CSS**, and **JS**-click the drop down menu in the top right corner
+
 1c. Select `Minimize Javascript Editor` from the dropdown. We will not be using the JS tab.
 
 
 ### Altering Name Heading
 2a. Find the text that says `Hello Name` in the HTML section (on the left)
+
 2b. Replace `Name` with your name
+
 2c. In the CSS section (on the right), find the following code:
    ```
    .box {
@@ -32,7 +36,9 @@ You will be using a website called CodePen, in which there will be three section
     align-items: center;
    }
    ```
+
 2d. Change the line that says `font-size: 10px;` to say `font-size: 40px;` (make sure to keep the semicolon)
+
 2f. The header should get larger automatically after a few seconds.
 
 The updated page should look similar to this:
