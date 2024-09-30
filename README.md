@@ -9,7 +9,9 @@ You will be using a website called CodePen, in which there will be three section
 
 # List of Requirements:
 1. A computer
-2. A stable internet connection
+![laptop](./images/laptop.jpeg)
+
+3. A stable internet connection
 
 # Numbered Steps
 
@@ -37,7 +39,6 @@ You will be using a website called CodePen, in which there will be three section
  - The header should get larger automatically after a few seconds
    
 The updated page should look similar to this:
-![changed header](./images/changedHeader.png)
 
 ### Changing The Image=
 3a. In the HTML Section, find this line:
@@ -47,7 +48,6 @@ The updated page should look similar to this:
 3b. Delete the url found after the `src=` and put in this new url `https://brightspotcdn.byu.edu/31/bf/faa1cee3405387ff8d0d135ffab1/1810-23-0021-1200-4.jpg` (make sure that you have quotes around the link).
 
 The updated page should look similar to this:
-![changed image](./images/changedImage.png)
 
 ### Changing Background Color
 4a. Find this code in the CSS section
@@ -62,7 +62,6 @@ body {
 4b. Change the background color by changing `background: orange;` to `background: green;` (make sure not to delete the semicolon at the end of the line)
 
 The updated page should look similar to this:
-![changed background](./images/changedBackground.png)
 
 # Comments, Notes, and Examples
 
