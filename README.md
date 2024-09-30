@@ -1,7 +1,9 @@
 # Creating and Editing a Simple Webpage
 
 # Introduction
-In this day and age, everything requires a website. Through these instructions, you will learn basic editing of HTML and CSS, the building blocks of websites. You will be using a website called CodePen, in which there will be three sections titled HTML, CSS, and JS. The webpage will be displayed underneath. You will be editing the HTML and CSS sections.
+In this day and age, everything requires a website. Through these instructions, you will learn basic editing of HTML and CSS, the building blocks of websites. 
+
+You will be using a website called CodePen, in which there will be three sections titled HTML, CSS, and JS. The webpage will be displayed underneath. You will be editing the HTML and CSS sections.
 
 ![codepen full screenshot](./Introduction.jpg)
 
@@ -10,8 +12,13 @@ In this day and age, everything requires a website. Through these instructions, 
 2. A stable internet connection
 
 # Numbered Steps
+
+
+### Preparation Steps
 1. Open this link in a new tab: https://codepen.io/18paulb/pen/abeOKgd
-2. Collapse the JS section. We won't be using it.
+2. Out of three tabs opened —**HTML**, **CSS**, and **JS**-click the drop down menu in the top right corner.
+3. Select `Minimize Javascript Editor` from the dropdown. We will not be using it the JS tab.
+
 
 ### Altering Name Heading
 1. In the HTML section (on the left), find the text that says `Hello {Name}`.
@@ -83,8 +90,17 @@ The updated page should look similar to this:
 
 # Hazard Statements
 
-### Caution 
+### ⚠️ Caution ⚠️
 If you refresh the CodePen page, you will lose all your progress.
 
 # Conclusion
-By following these steps, you have successfully edited a simple webpage using HTML and CSS. You’ve learned how to modify text, change an image, update the body content, and alter the background color. These basic steps provide a starting point for editing and personalizing websites. With a bit of practice, you can try making more changes and exploring other features of HTML and CSS to further customize webpages as you become more comfortable with the process.
+**Congratulations!** 
+
+By following these steps, you have successfully edited a simple webpage using HTML and CSS. You’ve learned the basics of editing a simple webpage using HTML and CSS. Through this exercise, you’ve explored fundamental techniques such as... 
+
+1. Modifying text
+2. Changing images
+3. Updating body content
+4. Ultering background colors
+
+These basic steps provide a starting point for editing and personalizing websites. With a bit of practice, you can try making more changes and exploring other features of HTML and CSS to further customize webpages as you become more comfortable with the process.
