@@ -21,8 +21,8 @@ You will be using a website called CodePen, in which there will be three section
 
 
 ### Altering Name Heading
-2a. In the HTML section (on the left), find the text that says `Hello {Name}`.
-2b. Replace `{Name}` with your name.
+2a. Find the text that says `Hello Name` in the HTML section (on the left).
+2b. Replace `Name` with your name.
 2c. In the CSS section (on the right), find the following code:
    ```
    .box {
