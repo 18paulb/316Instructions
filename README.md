@@ -9,9 +9,10 @@ You will be using a website called CodePen, in which there will be three section
 
 # List of Requirements:
 1. A computer
+   
 ![laptop](./images/laptop.jpeg)
 
-3. A stable internet connection
+2. A stable internet connection
 
 # Numbered Steps
 
