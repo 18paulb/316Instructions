@@ -44,7 +44,7 @@ The updated page should look similar to this:
 
 ![Find Image](./images/findImage.png)
 
-3b. Delete the url found after the `src=` and put in this new url `https://brightspotcdn.byu.edu/31/bf/faa1cee3405387ff8d0d135ffab1/1810-23-0021-1200-4.jpg`
+3b. Delete the url found after the `src=` and put in this new url `"https://brightspotcdn.byu.edu/31/bf/faa1cee3405387ff8d0d135ffab1/1810-23-0021-1200-4.jpg"`
  - Make sure that you have quotes around the link
 
 The updated page should look similar to this:
