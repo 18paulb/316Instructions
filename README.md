@@ -23,7 +23,7 @@ You will be using a website called CodePen, in which there will be three section
 
 2b. Replace `Name` with your name
 
-2c. In the CSS section (on the right), find the following code:
+2c. Find the following code in the CSS section (on the right):
    ```
    .box {
     font-size: 10px;
@@ -34,9 +34,8 @@ You will be using a website called CodePen, in which there will be three section
    ```
 
 2d. Change the line that says `font-size: 10px;` to say `font-size: 40px;` (make sure to keep the semicolon)
-
-2f. The header should get larger automatically after a few seconds.
-
+ - The header should get larger automatically after a few seconds
+   
 The updated page should look similar to this:
 ![changed header](./images/changedHeader.png)
 
@@ -51,7 +50,7 @@ The updated page should look similar to this:
 ![changed image](./images/changedImage.png)
 
 ### Changing Background Color
-4a. In the CSS section, find this code:
+4a. Find this code in the CSS section
 ```
 body {
   font-family: system-ui;
