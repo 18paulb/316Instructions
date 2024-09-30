@@ -16,11 +16,7 @@ You will be using a website called CodePen, in which there will be three section
 
 ### Preparation Steps
 1a. Open this link in a new tab: https://codepen.io/18paulb/pen/abeOKgd
-
-1b. Out of three tabs opened —**HTML**, **CSS**, and **JS**-click the drop down menu in the top right corner
-
-1c. Select `Minimize Javascript Editor` from the dropdown. We will not be using the JS tab.
-
+ - The JS tab will be not be utilized in this project
 
 ### Altering Name Heading
 2a. Find the text that says `Hello Name` in the HTML section (on the left)
