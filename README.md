@@ -24,6 +24,8 @@ You will be using a website called CodePen, in which there will be three section
 ### Altering Name Heading
 2a. Find the text that says `Hello Name` in the HTML section (on the left)
 
+![Find Change Name](./images/findChangeName.png)
+
 2b. Replace `Name` with your name
    
 The updated page should look similar to this:
