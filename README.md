@@ -15,15 +15,15 @@ You will be using a website called CodePen, in which there will be three section
 
 
 ### Preparation Steps
-1. Open this link in a new tab: https://codepen.io/18paulb/pen/abeOKgd
-2. Out of three tabs opened —**HTML**, **CSS**, and **JS**-click the drop down menu in the top right corner.
-3. Select `Minimize Javascript Editor` from the dropdown. We will not be using the JS tab.
+1a. Open this link in a new tab: https://codepen.io/18paulb/pen/abeOKgd
+1b. Out of three tabs opened —**HTML**, **CSS**, and **JS**-click the drop down menu in the top right corner.
+1c. Select `Minimize Javascript Editor` from the dropdown. We will not be using the JS tab.
 
 
 ### Altering Name Heading
-1. In the HTML section (on the left), find the text that says `Hello {Name}`.
-2. Replace `{Name}` with your name.
-3. In the CSS section (on the right), find the following code:
+2a. In the HTML section (on the left), find the text that says `Hello {Name}`.
+2b. Replace `{Name}` with your name.
+2c. In the CSS section (on the right), find the following code:
    ```
    .box {
     font-size: 10px;
@@ -32,24 +32,24 @@ You will be using a website called CodePen, in which there will be three section
     align-items: center;
    }
    ```
-4. Change the line that says `font-size: 10px;` to say `font-size: 40px;` (make sure to keep the semicolon)
-5. The header should get larger automatically after a few seconds.
+2d. Change the line that says `font-size: 10px;` to say `font-size: 40px;` (make sure to keep the semicolon)
+2f. The header should get larger automatically after a few seconds.
 
 The updated page should look similar to this:
 ![changed header](./images/changedHeader.png)
 
 ### Changing The Image=
-1. In the HTML Section, find this line:
+3a. In the HTML Section, find this line:
 ```
     <img class="photo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cat_August_2010-4.jpg/1200px-Cat_August_2010-4.jpg">
 ```
-2. Delete the url found after the `src=` and put in this new url `https://brightspotcdn.byu.edu/31/bf/faa1cee3405387ff8d0d135ffab1/1810-23-0021-1200-4.jpg` (make sure that you have quotes around the link).
+3b. Delete the url found after the `src=` and put in this new url `https://brightspotcdn.byu.edu/31/bf/faa1cee3405387ff8d0d135ffab1/1810-23-0021-1200-4.jpg` (make sure that you have quotes around the link).
 
 The updated page should look similar to this:
 ![changed image](./images/changedImage.png)
 
 ### Changing Background Color
-1. In the CSS section, find this code:
+4a. In the CSS section, find this code:
 ```
 body {
   font-family: system-ui;
@@ -58,8 +58,7 @@ body {
   text-align: center;
 }
 ```
-2. Change the background color by changing `background: orange;` to `background: green;` (make sure not to delete the semicolon at the end of the line)
-3. If you'd like, you can try using a different color than green.
+4b. Change the background color by changing `background: orange;` to `background: green;` (make sure not to delete the semicolon at the end of the line)
 
 The updated page should look similar to this:
 ![changed background](./images/changedBackground.png)
