@@ -45,17 +45,14 @@ The updated page should look similar to this:
 
 ### Changing Background Color
 4a. Find this code in the CSS section
-```
-body {
-  font-family: system-ui;
-  background: orange;
-  color: white;
-  text-align: center;
-}
-```
+
+![Find Image](./images/findBackground.png)
+
 4b. Change the background color by changing `background: orange;` to `background: green;` (make sure not to delete the semicolon at the end of the line)
 
 The updated page should look similar to this:
+
+![Find Image](./images/changeBackground.png)
 
 # Comments, Notes, and Examples
 
