@@ -48,17 +48,6 @@ The updated page should look similar to this:
 The updated page should look similar to this:
 ![changed image](./images/changedImage.png)
 
-### Changing Body Text
-1. In the HTML Section, find where it has this code:
-```
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-```
-2. Change the text inside of the `<p></p>` tags to be a description of how your day was today:
-   ```<p>My day was great!</p>```
-
-The updated page should look similar to this:
-![changed body](./images/changedText.png)
-
 ### Changing Background Color
 1. In the CSS section, find this code:
 ```
