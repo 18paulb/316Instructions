@@ -14,6 +14,11 @@ You will be using a website called CodePen, in which there will be three section
 
 2. A stable internet connection
 
+# Hazard Statements
+
+### ⚠️ Caution ⚠️
+If you refresh the CodePen page, you will lose all your progress.
+
 # Numbered Steps
 
 
@@ -63,11 +68,6 @@ The updated page should look similar to this:
  - If any changes aren't showing up:
     - Check the CSS section for any missing semicolons at the end of lines.
     - Check the HTML section and make sure you haven't deleted any of the tags (things in `<>` brackets)
-
-# Hazard Statements
-
-### ⚠️ Caution ⚠️
-If you refresh the CodePen page, you will lose all your progress.
 
 # Conclusion
 **Congratulations!** 
