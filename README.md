@@ -30,6 +30,8 @@ You will be using a website called CodePen, in which there will be three section
    
 The updated page should look similar to this:
 
+![Changed Name](./images/changeName.png)
+
 ### Changing The Image
 3a. In the HTML Section, find this line:
 ```
