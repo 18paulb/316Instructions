@@ -80,8 +80,7 @@ By following these steps, you have successfully edited a simple webpage. You’v
 
 1. Modifying text
 2. Changing images
-3. Updating body content
-4. Altering background colors
+3. Altering background colors
 
 These basic steps provide a starting point for editing and personalizing websites. With a bit of practice, you can try making more changes and exploring other features of HTML and CSS to further customize webpages as you become more comfortable with the process.
 
