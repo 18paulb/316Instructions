@@ -24,40 +24,43 @@ If you refresh the CodePen page, you will lose all your progress.
 # Numbered Steps
 
 
-### Preparation Steps
-1a. Open this link in a new tab: https://codepen.io/18paulb/pen/abeOKgd
- - The JS tab will be not be utilized in this project
+### 1. Preparation
+   a) Open this link in a new tab: https://codepen.io/18paulb/pen/abeOKgd
 
-### Altering Name Heading
-2a. Find the text that says `Hello Name` in the HTML section (on the left)
+ note: The JS tab will be not be utilized in this project
+
+### 2. Altering Name Heading
+a) Find the text that says `Hello Name` in the HTML section (on the left)
 
 ![Find Change Name](./images/findName.png)
 
-2b. Replace `Name` with your name
+b) Replace `Name` with your name
    
 The updated page should look similar to this:
 
 ![Changed Name](./images/changeName.png)
 
-### Changing The Image
-3a. In the HTML Section, find this line:
+### 3. Changing The Image
+a) In the HTML Section, find this line:
 
 ![Find Image](./images/findImage.png)
 
-3b. Delete the url found after the `src=` and put in this new url `"https://brightspotcdn.byu.edu/31/bf/faa1cee3405387ff8d0d135ffab1/1810-23-0021-1200-4.jpg"`
- - Make sure that you have quotes around the link
+b) Delete the url found after the `src=` and put in this new url `"https://brightspotcdn.byu.edu/31/bf/faa1cee3405387ff8d0d135ffab1/1810-23-0021-1200-4.jpg"`
+
+Note: make sure that you have quotes around the link
 
 The updated page should look similar to this:
 
 ![Change Image](./images/changeImage.png)
 
-### Changing Background Color
-4a. Find this code in the CSS section
+### 4. Changing Background Color
+a) Find this code in the CSS section
 
 ![Find Background](./images/findBackground.png)
 
-4b. Change the background color by changing `background: orange;` to `background: green;` 
- - Make sure not to delete the semicolon at the end of the line
+b) Change the background color by changing `background: orange;` to `background: green;` 
+
+Note: make sure not to delete the semicolon at the end of the line
 
 The updated page should look similar to this:
 
@@ -78,9 +81,9 @@ The updated page should look similar to this:
 
 By following these steps, you have successfully edited a simple webpage. You’ve learned the basics of using HTML and CSS. Through this exercise, you’ve explored fundamental techniques such as... 
 
-1. Modifying text
-2. Changing images
-3. Altering background colors
+- Modifying text
+- Changing images
+- Altering background colors
 
 These basic steps provide a starting point for editing and personalizing websites. With a bit of practice, you can try making more changes and exploring other features of HTML and CSS to further customize webpages as you become more comfortable with the process.
 
