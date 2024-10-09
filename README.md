@@ -27,7 +27,7 @@ If you refresh the CodePen page, you will lose all your progress.
 ### 1. Preparation
    a) Open this link in a new tab: https://codepen.io/18paulb/pen/abeOKgd
 
- note: The JS tab will be not be utilized in this project
+ Note: The JS tab will be not be utilized in this project
 
 ### 2. Altering Name Heading
 a) Find the text that says `Hello Name` in the HTML section (on the left)
